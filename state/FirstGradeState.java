@@ -3,6 +3,7 @@ package state;
 /**
  * A concrete class representing the First Grade state in the SpellingList
  * This state loads words for the first grade and defines behavior for the grade
+ * @author Stephon Johnson
  */
 public class FirstGradeState extends State {
 
